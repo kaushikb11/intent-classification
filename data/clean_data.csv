@@ -1,0 +1,1937 @@
+,message_order,data,label
+0,2,good morning,location
+1,5,location,whoAreYou
+2,5,hi,whoAreYou
+3,4,hi,greeting
+4,1,hello,greeting
+5,3,sir,whoAreYou
+6,2,k,whoAreYou
+7,2,thanks,dontMeetRequirements
+8,3,hii,dontMeetRequirements
+9,2,sir dnt two wheeler,whoAreYou
+10,1,hi,greeting
+11,3,hlo,greeting
+12,4,  good mrng,greeting
+13,0,ok,greeting
+14,3,gm,notInterested
+15,5,yes bike sorry,notInterested
+17,4,job placement company,greeting
+19,5,hiii,dontMeetRequirements
+21,0,hii,greeting
+22,1,thank,dontMeetRequirements
+23,1,location ,notInterested
+24,3,nahi,greeting
+25,3,marathi,whoAreYou
+26,1,ok,whoAreYou
+27,2,iska location kya hoga,location
+28,1,poda    ,notInterested
+29,2,ok,whoAreYou
+30,2,ok,location
+31,3,k,location
+32,3,ldhu,greeting
+33,2,hi,greeting
+34,1,interested,greeting
+35,4,r u,location
+36,5,hi  ,whoAreYou
+37,0,k,whoAreYou
+38,0,hi,greeting
+39,1,hiio,notInterested
+40,4,hello,notInterested
+41,2,ok thanks   ,whoAreYou
+42,3,ok,whoAreYou
+43,1,learning licence hai,notInterested
+44,3,okkk,whoAreYou
+45,1,bhaiii,greeting
+46,4,ok,whoAreYou
+47,3,hey,greeting
+48,2,msg kyu karte hai,notInterested
+49,2,hi sir,greeting
+50,0,ok,whoAreYou
+51,5,hi   ,whoAreYou
+52,1,u,notInterested
+53,5,hi sir,whoAreYou
+54,5,learning licence,whoAreYou
+55,4,hii,whoAreYou
+56,4,hii,whoAreYou
+57,1,hii,whoAreYou
+58,3,  g  morning,location
+59,4,okay,greeting
+60,4,ok,notInterested
+61,2,k,greeting
+62,3,msg,whoAreYou
+63,4,learning license,notInterested
+64,3,lerner license,whoAreYou
+65,2,ok,greeting
+66,3,ok bye dear c good night,notInterested
+67,2,thanks,notInterested
+68,2,location,greeting
+69,5,ohhhh sry,whoAreYou
+70,0,ok,whoAreYou
+71,3,kidar hai job,whoAreYou
+72,4,hallo,whoAreYou
+73,0,area,greeting
+74,3,lr licence,dontMeetRequirements
+75,4,hello sir   madam  sorry bike  ,notInterested
+76,5,ok,location
+78,3,one,dontMeetRequirements
+79,1,good morning,greeting
+80,3,hy,whoAreYou
+81,0,hai good morning,greeting
+82,4,ok,notInterested
+83,0,hai kishor,whoAreYou
+84,5,hi,location
+85,3,applied,location
+88,0,kkk,greeting
+89,0,ok,notInterested
+90,0,hi,whoAreYou
+91,5,come,notInterested
+92,3,ledu,greeting
+93,2,interested job bike,whoAreYou
+94,2,interested,notInterested
+95,1,already given dis answer numberdays back,greeting
+96,0,r u,greeting
+97,5,hello,whoAreYou
+98,2,hi,greeting
+99,3,ok,greeting
+100,1,hiii,whoAreYou
+101,5,haa hai,notInterested
+102,1,k,whoAreYou
+103,3,inserted,dontMeetRequirements
+104,0,helo,notInterested
+105,2,hai,notInterested
+106,2,two wheeler aahe,whoAreYou
+107,2,hello,whoAreYou
+108,3,hi,location
+109,5,hi,greeting
+110,3,ok,whoAreYou
+111,2,hi,greeting
+112,4,hi,whoAreYou
+113,2,ok,dontMeetRequirements
+114,2,hiii,greeting
+115,2,hii,dontMeetRequirements
+116,2,hi,greeting
+117,0,kkkkk,whoAreYou
+118,2,hii,notInterested
+119,3,location,dontMeetRequirements
+120,4,k,notInterested
+121,4,good morning,greeting
+122,2,driving licence process,whoAreYou
+123,0,hii,whoAreYou
+124,0,location kya hai sir,whoAreYou
+125,0,haii,whoAreYou
+126,1,hii,whoAreYou
+127,0,ok,dontMeetRequirements
+128,5,ok,greeting
+131,5,sorry,whoAreYou
+132,2,swiggy nai karna merko,notInterested
+133,1,hii,location
+134,1,ok,greeting
+135,5,g sir,greeting
+136,3,kuthe aahe vacancey,greeting
+137,2,sry sir interested job,notInterested
+139,3,ok,whoAreYou
+140,5,okok,whoAreYou
+142,0,hi,notInterested
+143,3,llr,notInterested
+144,0,area,dontMeetRequirements
+145,3,location kon si rhe gi sir g,notInterested
+147,1,office,whoAreYou
+148,3,helo,whoAreYou
+149,1,good morning,whoAreYou
+150,5,hi sir,whoAreYou
+151,5,ok,greeting
+152,2,ok,whoAreYou
+153,3,ok,greeting
+154,0,ok,notInterested
+155,3,hiiii,whoAreYou
+156,5,hi,dontMeetRequirements
+157,0,hi,greeting
+158,5,hi,whoAreYou
+159,5,hii,dontMeetRequirements
+160,4,learning license    ok job,greeting
+161,1,bt bike nhi aata,whoAreYou
+162,5,ok,location
+163,1,two wheeler,greeting
+164,5,yas,location
+165,3,gm,notInterested
+166,0,hai,whoAreYou
+167,3,dear sir mam,whoAreYou
+168,0,llr,dontMeetRequirements
+169,0,hey mam,dontMeetRequirements
+170,4,hi,whoAreYou
+171,2,sorry original licence,whoAreYou
+172,1,k,notInterested
+173,0,ok,greeting
+174,2,already joined left job,whoAreYou
+175,2,hii,notInterested
+176,3,oky,greeting
+177,1,ok,location
+178,2,telugu ni aati,whoAreYou
+179,3,get lost,notInterested
+180,2,hi,greeting
+181,3,hi,notInterested
+182,4,near banashankari,whoAreYou
+183,0,"dnt bike 
+ u provide  ",notInterested
+184,0,hiiii,dontMeetRequirements
+185,4,hi,notInterested
+186,5,hi sir,whoAreYou
+187,0,tq,whoAreYou
+188,1,ohhh k    ,notInterested
+189,1,ok,whoAreYou
+190,5,hello,greeting
+191,0,job location,whoAreYou
+192,0,kahapar hai job,location
+194,5,hello,notInterested
+195,2,hi,greeting
+196,1,good morning,notInterested
+197,1,ok,greeting
+198,1,hlw,notInterested
+199,5,bike type job,notInterested
+200,3,hai good morning,whoAreYou
+201,3,llr license,whoAreYou
+202,3,k k,dontMeetRequirements
+203,5,hi,greeting
+204,0,hai,whoAreYou
+205,5,ekada job,whoAreYou
+206,5,driving license nai hai gaadi hai,greeting
+207,1,  gdmng,dontMeetRequirements
+208,1,sry dnt bike job   thank,greeting
+209,2,kkk,whoAreYou
+210,3,sir bike nahi hai,notInterested
+211,5,thank,greeting
+212,3,location,notInterested
+213,5,leaning license,whoAreYou
+214,1,ok,greeting
+215,4,ok,greeting
+216,3,bhai,whoAreYou
+217,5,okau,greeting
+218,3,ok,greeting
+219,3,helloooo,whoAreYou
+220,0,good night,notInterested
+221,4,thanks,dontMeetRequirements
+222,4,want nearest jalahalli cross address,whoAreYou
+223,3,good night,notInterested
+224,0,hi unnati thx contacting   ,notInterested
+225,4,ok,greeting
+226,3,ok ok,greeting
+227,3,office,location
+228,0,ok,greeting
+229,1,applied license yet received,greeting
+230,4,k,notInterested
+231,4,r u,whoAreYou
+232,0,ब इक नह   ह ,notInterested
+233,4, ok,notInterested
+234,2,kk,dontMeetRequirements
+235,5,dont swiggy offic thane,whoAreYou
+236,0,ok,whoAreYou
+237,2,kahase vai,greeting
+238,4,come interview,notInterested
+239,3,hii,whoAreYou
+240,3,hlo vahna,notInterested
+241,3,bike ledhu,greeting
+242,5,k,whoAreYou
+243,1,suno bhai meri age nahi hai numberth hya,greeting
+244,3,okay,dontMeetRequirements
+245,5,location,notInterested
+246,4,hello,dontMeetRequirements
+247,4,need job apply fee,notInterested
+248,1,licence,notInterested
+249,4,bhi na bike hai na licence hai,greeting
+250,2,interest,whoAreYou
+251,4,sir  area ,notInterested
+252,2,bike,greeting
+253,4,ok,greeting
+254,2,hii,whoAreYou
+255,0,ok,whoAreYou
+256,0,deposit   ,location
+257,5,driving license,greeting
+258,1,hii,whoAreYou
+259,5,ok,greeting
+260,1,hello brother,whoAreYou
+261,1,hiii,location
+262,2,k        tq much sar mam,location
+263,0,okn,greeting
+264,4,hai,whoAreYou
+265,5,hii sit,greeting
+266,1,hi,dontMeetRequirements
+267,2,dnt bike job intrested,whoAreYou
+268,1,tell,notInterested
+269,3,learning license,whoAreYou
+270,2,sorry unable pay number rupee,notInterested
+271,1,ok,greeting
+272,4,unexpectedly applied job,greeting
+273,5,send text msg,location
+274,2,k,notInterested
+275,0,hi,dontMeetRequirements
+276,3,near vijaynagar ,notInterested
+277,1,ur location,location
+278,4,hello,whoAreYou
+279,1,job location,greeting
+280,0,ok,whoAreYou
+281,1,learning license,notInterested
+282,0,city,whoAreYou
+283,4,hello,whoAreYou
+284,3,head office,notInterested
+285,2,hi,greeting
+286,4,hi,dontMeetRequirements
+287,4,whr office pls,greeting
+288,0,gud mrng,greeting
+289,5,ok interested,greeting
+290,5,lost license making new,whoAreYou
+291,1,hii,notInterested
+292,1,hlo,greeting
+293,2,ok,whoAreYou
+294,3,k,location
+295,1,hi,whoAreYou
+296,3,ok ok,whoAreYou
+297,4,k,dontMeetRequirements
+298,1,ok,whoAreYou
+299,1,hello,whoAreYou
+300,1,okey,greeting
+301,5,location,location
+302,3,lr,whoAreYou
+303,0,hii,whoAreYou
+304,4,gud morning,notInterested
+305,5,area,greeting
+306,5,mere paas bike nhi hai,whoAreYou
+307,0,llr,whoAreYou
+308,3,hello job location akkada,notInterested
+309,1,bhakk,whoAreYou
+310,2,okay,greeting
+311,1,vehicle sir,notInterested
+312,1,sorry,whoAreYou
+313,5,location,dontMeetRequirements
+314,0,wher,greeting
+315,3,hello,whoAreYou
+316,3,dl,whoAreYou
+317,5,snd location,location
+318,3,two wheeler ahe pan license nahi,whoAreYou
+319,5,hello peru,greeting
+320,2,ok,whoAreYou
+321,3,bike,whoAreYou
+322,0,hi,notInterested
+323,2,hi,dontMeetRequirements
+324,0,tq,greeting
+325,5,interview place,notInterested
+326,1,ok thanks sir,greeting
+327,5,job kaha pr h sir,greeting
+328,2,address,notInterested
+329,1,hi,notInterested
+330,4,gm,dontMeetRequirements
+331,5,hiii,whoAreYou
+332,5,helo,notInterested
+333,3,okay,whoAreYou
+334,0,hello,whoAreYou
+335,3,hiii,whoAreYou
+336,4,bike,notInterested
+337,4,hello,greeting
+338,0,hii,greeting
+339,3,two wheeler,greeting
+340,5,ok,whoAreYou
+341,1,yes,whoAreYou
+342,3,ok,notInterested
+343,1,hello,whoAreYou
+344,0,hello,whoAreYou
+345,5,hi,whoAreYou
+346,5,location,greeting
+347,4,mere pas bike nhi hai,greeting
+348,1,hi ra,whoAreYou
+349,0,  good morning everyone         ,notInterested
+350,5,  good morning,notInterested
+351,0,hello,greeting
+352,4,better wl blk u,whoAreYou
+353,2,म र  प स ब इक नह  ह ,notInterested
+354,1,hello,greeting
+355,3,sir bike nahi hai,notInterested
+356,5,nahi,greeting
+357,4,hello,whoAreYou
+358,4,kk,whoAreYou
+359,2,ok,notInterested
+361,1,vehicle license also,greeting
+362,5,gd mrng,greeting
+363,2,k,whoAreYou
+364,5,hi,dontMeetRequirements
+365,1,ok,greeting
+366,0,hi,whoAreYou
+367,3,thiruvallur job location,whoAreYou
+368,4,kasturinagar  ,notInterested
+369,2,kidar hey,location
+370,4,ల ద ,notInterested
+371,0,hii,greeting
+372,0,give address,dontMeetRequirements
+373,5,tq,whoAreYou
+374,0,ok,greeting
+375,5,hi,whoAreYou
+376,3,hi,notInterested
+377,1,learning licence,greeting
+378,1,dombivli mein hai kya  ,notInterested
+379,4,apply chesanu,greeting
+380,5,bat,greeting
+381,0,hello,notInterested
+382,0,good morning,dontMeetRequirements
+383,0,okay,location
+384,0,hi,whoAreYou
+385,4,bhai apka location kidar hi,whoAreYou
+386,3,iam interested,notInterested
+387,1,hi,location
+388,0,hiii sir,notInterested
+389,3,place,greeting
+390,4,hi,notInterested
+391,5,bike,dontMeetRequirements
+392,5,ok sir,notInterested
+393,1,dot licence,whoAreYou
+394,2,learning license,whoAreYou
+395,1,hi,whoAreYou
+396,0,na ku bike,whoAreYou
+397,1,ok ok,greeting
+398,4,ok,greeting
+399,0,k,whoAreYou
+400,3,sir,location
+401,2,nhi karna h,notInterested
+402,4,ok,whoAreYou
+403,0,bike nhi hai,location
+404,4,number,notInterested
+405,0,ok,notInterested
+406,2,mere paas filhaal driving licence ka paavti hai,dontMeetRequirements
+407,0,hi,greeting
+408,5,hi,dontMeetRequirements
+409,3,good night,notInterested
+410,3,hi,greeting
+411,1,ol,greeting
+412,5,hlo,greeting
+413,2, ,whoAreYou
+414,3,gn,dontMeetRequirements
+415,5,hello,notInterested
+416,4,whr job,whoAreYou
+417,4,kk thank,dontMeetRequirements
+418,4,hold,location
+419,5,office address,whoAreYou
+420,4,ok,whoAreYou
+421,4,area,dontMeetRequirements
+422,0,hai,notInterested
+425,2,ok sir,whoAreYou
+426,4,inshallah come,notInterested
+427,1,okay,greeting
+428,3,hello,notInterested
+429,5,bike nahi hai ,greeting
+430,0,number,greeting
+431,4,interested,dontMeetRequirements
+432,1,hi,whoAreYou
+433,4,k,location
+434,5,location,greeting
+435,3,kk lev,dontMeetRequirements
+436,4,hii,greeting
+437,4,hi,dontMeetRequirements
+438,5,ok,notInterested
+439,1,hello,notInterested
+440,5,  ,notInterested
+441,3,assalatu khairu minanum,notInterested
+442,5,learning,notInterested
+443,0,yes money,notInterested
+444,3,ok,whoAreYou
+445,5,ok,notInterested
+446,3,hi,dontMeetRequirements
+447,1,sir u say tht office,notInterested
+448,5,hi,whoAreYou
+449,1,ok,greeting
+450,1,ledhuu,greeting
+451,5,hello,greeting
+452,0,ok,notInterested
+453,0,mere paas bike nhi hai,greeting
+454,1,sorry muze bike chalana nhi aata,whoAreYou
+455,2,hiiii,greeting
+456,4,hi,greeting
+457,2,kasthuri nagar come,whoAreYou
+458,5,ledhu teeeskuntanu,notInterested
+459,3,halo,whoAreYou
+460,2,im present busy,notInterested
+461,2,llr,location
+462,2,thanks,greeting
+464,5,sir need job near rajajinagar  delivery boy job,greeting
+465,0,hi,whoAreYou
+466,1,hi,notInterested
+467,5,location,whoAreYou
+468,1,wher,notInterested
+469,3,okk,notInterested
+470,4,hi,whoAreYou
+471,4,hi,greeting
+473,1,thanks information,greeting
+474,2,bro,greeting
+475,4,hi yari,notInterested
+476,1,k,greeting
+477,4,hlo,notInterested
+478,3,ok,notInterested
+479,1,hi,notInterested
+480,3,btw location,notInterested
+481,5,ok,dontMeetRequirements
+482,0,licnc bike nahi,greeting
+483,1,noh,location
+484,4,hi,whoAreYou
+485,4,hii,notInterested
+486,4,assalamualaikum,greeting
+487,2,office address,greeting
+488,3,जय मह र ष ट र,whoAreYou
+489,4,hv bike license,greeting
+490,1,hi,notInterested
+491,3,hii,whoAreYou
+492,4,ok thnx bro,notInterested
+493,2,k,greeting
+494,2,hello,greeting
+495,0,hii,notInterested
+496,1,number welar lagana hy,whoAreYou
+497,4,thank u computer,whoAreYou
+498,2,hi,location
+499,2,bicycle,notInterested
+500,3,ledhu,whoAreYou
+501,0,left ago numbermonths,dontMeetRequirements
+502,4,need clarity r else keep calling disturb,greeting
+503,1,gd night,greeting
+504,0,hi,dontMeetRequirements
+505,4,chal,greeting
+506,0,hi,whoAreYou
+507,3,dnt want swiggy,greeting
+508,4,sir kamm ki state ha,whoAreYou
+509,2,okkk,greeting
+510,1,bike,location
+511,0,hello,notInterested
+512,5,ok,greeting
+513,0,haii,greeting
+514,1,hi,greeting
+515,5,licence hai,greeting
+516,1,hi,notInterested
+517,1,ok,whoAreYou
+518,3,area,greeting
+519,3,ok,dontMeetRequirements
+520,2,hi,whoAreYou
+521,2,ok,notInterested
+522,5,kk,greeting
+523,0,  good morning nice day     ,greeting
+524,1,hi,greeting
+525,3,bro,whoAreYou
+526,5,sir job location kaha hai,greeting
+527,5,branch,greeting
+528,2,learing hve,greeting
+529,4,thanks,greeting
+530,5,place sir,notInterested
+531,4,bhai,notInterested
+532,2,ok,whoAreYou
+533,1,drop address,whoAreYou
+534,2,hlo,dontMeetRequirements
+535,5,ok,greeting
+536,5,ok sir,whoAreYou
+537,5,k,greeting
+538,2,whr office,greeting
+539,1,assalaamu alaikum,greeting
+540,3,ok,dontMeetRequirements
+541,0,kaha pr h,greeting
+542,1,hii,greeting
+544,2,sure,notInterested
+545,1,area,greeting
+546,4,sry dnt bike,whoAreYou
+547,2,sorry l good ride vehicle ,notInterested
+548,3,ok,notInterested
+549,1,k,whoAreYou
+551,1,sorry,dontMeetRequirements
+553,0,hi,greeting
+554,3,want job,dontMeetRequirements
+555,5,send type message,dontMeetRequirements
+556,2,hello bike license sold bike arrange bike,greeting
+557,5,okay,location
+558,5,hi,notInterested
+559,4,interest,greeting
+560,0,hi,greeting
+561,5,ok,whoAreYou
+562,5,plea,greeting
+563,5,hai   sir,greeting
+565,0,money pay,greeting
+566,2,k,dontMeetRequirements
+567,1,hi,notInterested
+568,0,kkk,whoAreYou
+569,2,hi,notInterested
+570,4,hi,dontMeetRequirements
+571,5,hi,notInterested
+572,2,hii,notInterested
+573,0,ok,notInterested
+574,5,thank,greeting
+575,5,hii,greeting
+576,4,ok,whoAreYou
+577,2,vasai virar mein hai swiggy delivery boy vacancy,greeting
+578,4,hi,greeting
+579,1,dont bike,notInterested
+580,5,hiii,notInterested
+581,2,llr,notInterested
+582,3,ok,greeting
+583,4,driving licence,whoAreYou
+584,2,hii,location
+585,5,hi,whoAreYou
+586,5,ok,notInterested
+587,4,bike,greeting
+589,3,ok,location
+590,5,area give,notInterested
+591,0,ok,whoAreYou
+592,4,hi,location
+594,0,hi sir,whoAreYou
+595,0,hi,notInterested
+596,0,ok,whoAreYou
+597,1,give office,greeting
+598,1,hi,whoAreYou
+599,3,mere pas bike nahi,greeting
+600,1,office,location
+601,1,ల ద ,whoAreYou
+602,2,ok,dontMeetRequirements
+603,2,hii good morning,dontMeetRequirements
+604,3,hi,greeting
+605,5,hello,notInterested
+606,0,kon banega core pati ka contest hai kya,greeting
+607,3,hiii,greeting
+608,3,already done job,notInterested
+609,1,address,notInterested
+610,3,nothing,whoAreYou
+611,5,hello,whoAreYou
+612,0,hi,whoAreYou
+613,5,hii,notInterested
+614,2,good afternoon,notInterested
+615,3,sry,location
+616,3,hello,notInterested
+617,1,lose dl,notInterested
+618,3,hiii,whoAreYou
+619,1,numberapply,greeting
+620,3,gm chill climate   ,greeting
+621,0,ok,whoAreYou
+622,1,ye ki jegha h,whoAreYou
+623,3,salam job,greeting
+625,0,ok understand,whoAreYou
+626,5,hi,whoAreYou
+627,3,hii,greeting
+628,0,sorry,greeting
+629,0,bike ledhu,dontMeetRequirements
+630,1,kkk,greeting
+631,1,"thank unnati   
+  may later",notInterested
+632,5,hai sir,location
+633,3,tge work,whoAreYou
+634,2,okya,whoAreYou
+635,5,hi,whoAreYou
+636,0,place,whoAreYou
+637,1,hi,greeting
+638,2,ok,notInterested
+639,5,hi,location
+640,4,hyy,location
+641,4,place recruitment,greeting
+642,0,thanks concern ,greeting
+643,4,ok,notInterested
+644,3,hi sir,notInterested
+645,5,please pura address,greeting
+646,2,bro,whoAreYou
+647,4,ok,greeting
+648,3,k,greeting
+649,5,hiii,notInterested
+650,3,sorry nonumber,whoAreYou
+651,2,hi,notInterested
+652,0,ok,notInterested
+653,0,thanks   ,notInterested
+654,0,hi,whoAreYou
+656,3,hi,location
+657,0,dnt bike dl knw ridng bike,whoAreYou
+658,5,thanks,greeting
+659,3,k,notInterested
+660,0,heyyyy,greeting
+661,0,oj,whoAreYou
+662,2,hi,notInterested
+663,3,ok,notInterested
+664,3,bike  ie problem ,notInterested
+665,5,ok,whoAreYou
+666,0,sorry interested,whoAreYou
+667,4,hi,dontMeetRequirements
+668,0, voke,greeting
+669,0,ok,whoAreYou
+670,1,good,whoAreYou
+671,0,want online offline system wise chance interested,greeting
+672,1,hi,greeting
+673,3,gm,dontMeetRequirements
+674,1,hiii,greeting
+675,0,hi,greeting
+676,2,thanks concern mr  varun ,location
+678,1,brother hav bike dl also    ,dontMeetRequirements
+679,5,hi,greeting
+680,4,hlo,greeting
+681,4,hi,notInterested
+682,3,hi,whoAreYou
+683,4,hi,dontMeetRequirements
+684,3,hello,notInterested
+685,1,ok,location
+686,1,ok,whoAreYou
+687,3,ok,dontMeetRequirements
+688,0,thanks,whoAreYou
+689,1,making angry seriously,whoAreYou
+690,4,ok,whoAreYou
+691,0,gm,greeting
+692,1,would u provide twowheller,greeting
+693,1,tell place office,notInterested
+694,2,ok,whoAreYou
+695,2,hello,whoAreYou
+696,1,ok,location
+697,5,hallo,greeting
+698,0,oki bro,greeting
+699,5,yes dont license vehicle,location
+700,0,got job sir dnt txt sry,greeting
+701,4,banane diya hi    mere pas tha    gum ho gaya hi,greeting
+702,0,ok,greeting
+703,0,learning license available,dontMeetRequirements
+704,1,hi,whoAreYou
+705,0,bike nhi hu ga tu chil gaa kya,dontMeetRequirements
+706,4,send u r location   come,dontMeetRequirements
+707,5,hi,whoAreYou
+709,1,hi,notInterested
+710,1,land mark ,greeting
+711,1,hi,notInterested
+712,4,message dont message get lost first,greeting
+713,4,llr,notInterested
+714,1,k,whoAreYou
+715,2,say,greeting
+716,5,ok,whoAreYou
+717,0,lekin mere pas draving lision nahi hai,greeting
+718,3,kk,greeting
+719,3,area bro,greeting
+720,3,hi,notInterested
+721,0,location branch,whoAreYou
+722,5,thanks,greeting
+723,5,bye,greeting
+724,5,hii,notInterested
+725,0,kk,greeting
+726,2,near loction,location
+727,2,hii,greeting
+728,5,hi,location
+729,2,gn,greeting
+730,0,ok,whoAreYou
+731,5,hi,whoAreYou
+732,5,kkkk,whoAreYou
+733,1,ok,greeting
+734,2,hi,whoAreYou
+735,4,hi,dontMeetRequirements
+736,4,hi,greeting
+737,5,hii,notInterested
+738,3,mere pas paisa nhi,greeting
+739,1,"sir already worked  
+ need food delivery order",location
+740,2,hi,whoAreYou
+742,2,interested delivery job  thank,whoAreYou
+743,4,ok,dontMeetRequirements
+744,4,"ya
+ license",notInterested
+745,4,location,greeting
+746,1,ready deposit money,whoAreYou
+747,4,hi,greeting
+748,4,get lost,greeting
+749,3,llr,notInterested
+750,2,ok,greeting
+751,5,hi,greeting
+752,4,hi,greeting
+753,4,ok,whoAreYou
+754,5,bike insurance kk,dontMeetRequirements
+755,0,konsi jagah,notInterested
+756,4,hi,notInterested
+757,2,ok,notInterested
+758,5,bike,dontMeetRequirements
+759,2,sorry dont bike   thanks u information,notInterested
+760,3,ok,whoAreYou
+761,4,location,whoAreYou
+763,3,ok,notInterested
+764,0,hi,whoAreYou
+765,0,address numberlz,whoAreYou
+766,1,ok plz send address,dontMeetRequirements
+767,3,hii bro,greeting
+768,4,ok,notInterested
+769,5,hello,greeting
+770,3,kiddar,greeting
+771,5,sir bike,notInterested
+773,3,ok,whoAreYou
+774,2,hi hello,greeting
+775,3,ok,notInterested
+776,0,opening city,dontMeetRequirements
+777,1,hi,whoAreYou
+778,4,hello,whoAreYou
+779,4,job location,dontMeetRequirements
+780,2,bike ledhu,whoAreYou
+781,1,k,whoAreYou
+782,0,adras,greeting
+783,4,ok,greeting
+784,1,driving license,greeting
+785,4,ok,notInterested
+786,4,hi,notInterested
+787,5,ok,notInterested
+788,3,hiii,whoAreYou
+790,5,get lost,greeting
+791,2,kaha par hai job sar,notInterested
+792,1,learning,location
+793,5,hi,location
+794,0,bhai,whoAreYou
+795,0,hello,dontMeetRequirements
+796,3,right licence bike,greeting
+797,3,ok,whoAreYou
+798,5,hi,notInterested
+799,1,ledhu,notInterested
+801,4,dnt bike right get cum guy,location
+802,1,hi,greeting
+803,2,process,greeting
+804,5,hi,greeting
+805,4,kahapar hai job,notInterested
+806,3,"thanks services
+ interested job",notInterested
+807,3,plzz stop,whoAreYou
+808,3,sorry nothing driver license,greeting
+809,1,k,whoAreYou
+810,5,thank offer,whoAreYou
+812,4,ok,location
+813,2,hi,greeting
+814,0,hy,notInterested
+815,3,gud nyt,notInterested
+816,0,good morning,whoAreYou
+817,3,hinumber,greeting
+818,3,u share address numberst,greeting
+819,5,hi,notInterested
+821,1,hi,whoAreYou
+822,1,thanks u r information,notInterested
+823,5,hy,notInterested
+824,5,ok,whoAreYou
+825,2,hii,greeting
+826,2,bike,whoAreYou
+827,2,sur good afternoon  ,greeting
+828,1,okk,whoAreYou
+829,4,hii sir,greeting
+830,2,hii,whoAreYou
+831,5,swiggy need,notInterested
+832,3,nice,whoAreYou
+833,4,okk,dontMeetRequirements
+834,1,yeah,notInterested
+835,1,ohk,whoAreYou
+836,5,refer one num send msg,greeting
+837,4,hi,notInterested
+838,3,dont send fake,dontMeetRequirements
+839,0,okk,notInterested
+840,4,ok,dontMeetRequirements
+841,3,hii,greeting
+842,0,hi bro,whoAreYou
+843,5,tq,greeting
+844,0,thika muchkondu stop madu aste,notInterested
+845,4,hi,greeting
+846,4,kk,greeting
+847,4,hi,greeting
+848,2,ok,dontMeetRequirements
+849,5,hlo,notInterested
+850,2,hi,notInterested
+851,3,ok,whoAreYou
+852,3,thanks ur support,greeting
+853,5,numberyes,notInterested
+854,5,hello vahan,notInterested
+855,0,ok,whoAreYou
+856,4,hi,whoAreYou
+857,2,vehicle castady,whoAreYou
+858,0,ok,whoAreYou
+859,4,haiii,greeting
+860,1,kk,dontMeetRequirements
+861,1,ok,location
+862,1,hai,greeting
+863,4,ok,notInterested
+864,4,kormangala,notInterested
+865,4,recently applied lr license ,dontMeetRequirements
+866,2,msg,greeting
+867,5,okį,whoAreYou
+868,1,gn,whoAreYou
+869,5,okk,whoAreYou
+871,3,ok,greeting
+872,1,k,notInterested
+873,4,dl given renewal,location
+874,3,place,greeting
+875,4,hi,greeting
+876,5,gn,greeting
+877,3,hii,notInterested
+878,1,driving license,greeting
+879,2,hi,greeting
+880,1,hii si,notInterested
+881,0,bike nhi hai,greeting
+882,1,hii,greeting
+883,5,two viller iam sorry,dontMeetRequirements
+884,5,nik siggu leda ra okasare chepthe,whoAreYou
+885,5,ok,whoAreYou
+886,4,hi,greeting
+887,5,mere bhai mujhe job nhi chahiye,whoAreYou
+889,3,helloo,location
+890,0,nonono,whoAreYou
+891,1,ok,whoAreYou
+892,4,location please,greeting
+893,1,sorry   ,greeting
+894,2,gn,greeting
+895,2,cheatinh,whoAreYou
+896,4,hi sir,notInterested
+897,3,hhi,notInterested
+898,0,sry,greeting
+899,4,bike ledhu,notInterested
+900,3,nonsense,greeting
+901,4,hii,notInterested
+902,0,den go way,whoAreYou
+903,3,lisence   u manage join delivary boy,greeting
+904,2,place,whoAreYou
+905,4,hii,whoAreYou
+906,0,ohk,notInterested
+907,4,ok,notInterested
+908,2,hii,dontMeetRequirements
+909,0,acha,greeting
+910,1,hi,notInterested
+911,4,ok,whoAreYou
+912,1,hai,whoAreYou
+913,5,good night    ,dontMeetRequirements
+914,3,nothing,greeting
+915,0,sir,whoAreYou
+916,5,numbernot text u,greeting
+917,1,hi,notInterested
+918,3,dl,greeting
+919,1,ok,greeting
+920,1,ok,whoAreYou
+921,2,ok,greeting
+922,2,good morning,whoAreYou
+923,2,hii,greeting
+924,1,ok k,location
+925,0,r,notInterested
+926,3,wer location job,greeting
+927,0,location job,greeting
+928,5,bike license,notInterested
+929,5,hiii,greeting
+930,2,hello,greeting
+931,5,hi,notInterested
+932,3,kaise hai,greeting
+933,3,hello,whoAreYou
+934,0,hi,notInterested
+935,0,number day getting,whoAreYou
+936,3,hello,whoAreYou
+937,3,  good morning happy friday       ,greeting
+938,0,kkk,notInterested
+939,2,lr undi,location
+940,5,buke,notInterested
+941,5,oko,notInterested
+942,0,hi,notInterested
+944,4,llr,notInterested
+945,5,okkk,notInterested
+946,2,hi,greeting
+947,5,శ భ దయ ,notInterested
+948,1,naku bike ledu sar,greeting
+949,2,hello,whoAreYou
+950,1,hello,whoAreYou
+951,5,police complain karti hu ruk abhi,whoAreYou
+952,4,hi,dontMeetRequirements
+953,5,hlo gm g,greeting
+954,1,send msg,greeting
+955,1,kk,whoAreYou
+956,3,licensed,greeting
+957,4,hai,notInterested
+958,5,hii,notInterested
+959,5,ur office,greeting
+960,5,ok,whoAreYou
+961,0,numberbut l l r,whoAreYou
+962,4,llr,dontMeetRequirements
+963,2,location kha pr,greeting
+964,5,hi,notInterested
+965,0,ok,dontMeetRequirements
+966,3,good morning,greeting
+967,0,ok sir,greeting
+968,1,gm,location
+969,5,ok,notInterested
+970,1,hii,notInterested
+971,4,  ,whoAreYou
+972,0,hii,greeting
+974,3,ok,greeting
+975,0,work location ,greeting
+976,3,good morning,notInterested
+977,3,hi,greeting
+978,3,ok,greeting
+979,2,hi,greeting
+980,0,work location,location
+981,0,nt dl,whoAreYou
+982,4,gn,whoAreYou
+983,2,okk,notInterested
+984,5,ok,greeting
+986,1,thanks foe ur information,location
+987,0,hallo,greeting
+988,2,ok,notInterested
+989,2,hii,greeting
+990,0,hi,notInterested
+991,0,sir  ok  nodriveng  lince   pancaed,whoAreYou
+992,3,okk,dontMeetRequirements
+993,5,plz didnot send message plz stop interested,notInterested
+995,3,thnaks bro,greeting
+996,2,tanq,notInterested
+997,2,llr,notInterested
+998,3,okay,greeting
+999,1,computer block,whoAreYou
+1000,3,location job,whoAreYou
+1001,1,hi,notInterested
+1002,4,sorry sir naku bike radu,notInterested
+1003,2,hi,greeting
+1004,0,ok,whoAreYou
+1005,0,r u,notInterested
+1006,2,hii,notInterested
+1007,4,ok,notInterested
+1008,4,license ny,notInterested
+1009,5,ok,whoAreYou
+1010,4,hi,notInterested
+1011,5,good morning nice day,whoAreYou
+1012,3,hello,location
+1013,0,hii,whoAreYou
+1014,1,hi good morning,notInterested
+1015,2,hiiii,greeting
+1016,3,driving licence,notInterested
+1017,5,hi,greeting
+1018,0,learning license,notInterested
+1019,1,ok,whoAreYou
+1020,3,learning license,whoAreYou
+1021,1,sorry interested ,whoAreYou
+1022,0,come,whoAreYou
+1023,4,hi,greeting
+1024,0,hi,greeting
+1025,5,okay,greeting
+1026,1,ok sir,greeting
+1027,3,hi sir,dontMeetRequirements
+1028,3,license,greeting
+1029,0,k,whoAreYou
+1030,3,hi,dontMeetRequirements
+1031,4,k,whoAreYou
+1032,4,ya  llr,whoAreYou
+1033,0,hi,greeting
+1034,3,im interested swiggy,whoAreYou
+1035,1,ok,dontMeetRequirements
+1036,1,ok sir,greeting
+1037,1,thanks,notInterested
+1038,0,learning license,whoAreYou
+1039,5,hi,whoAreYou
+1040,5,sorry,whoAreYou
+1041,3,na location change chesaru,whoAreYou
+1042,4,hello,whoAreYou
+1043,2,sorry,whoAreYou
+1044,5,hello sollu pa,whoAreYou
+1045,0,kk,notInterested
+1046,1,thank sir bike,whoAreYou
+1047,4,hlo,greeting
+1048,1,okk,dontMeetRequirements
+1049,2,tq,greeting
+1050,2,license nahi hai,greeting
+1051,3,want job lr liasen,greeting
+1052,3,hello,location
+1053,2,hello,greeting
+1054,0,ok,greeting
+1055,4,bike license ,notInterested
+1056,2,ok,whoAreYou
+1057,3,ok,whoAreYou
+1058,3,thanks,whoAreYou
+1059,0,bike even driving licence,whoAreYou
+1060,4,k,greeting
+1061,1,hi,greeting
+1062,3,hi,greeting
+1063,1,hi,whoAreYou
+1064,1,hi,notInterested
+1065,5,hi,notInterested
+1066,4,thanks,greeting
+1067,2,yes sir   l n bike,location
+1068,4,hi,dontMeetRequirements
+1069,2,job location wr r u,whoAreYou
+1070,1,hi,greeting
+1071,5,okay,notInterested
+1072,3,okh,whoAreYou
+1073,3,stop messaging,whoAreYou
+1074,2,hii,greeting
+1075,2,great    good night,whoAreYou
+1076,5,ok,whoAreYou
+1077,4,sar,notInterested
+1078,1,location,whoAreYou
+1079,5,learner licence available,whoAreYou
+1080,0,bro interested,whoAreYou
+1081,3,hello,notInterested
+1082,1,sir,whoAreYou
+1083,5,hi,notInterested
+1084,4,sorry sir bike,notInterested
+1085,3,hi,whoAreYou
+1086,0,"sir  
+ pancard bank account",greeting
+1087,0,ok,whoAreYou
+1088,0,kelasa elva,greeting
+1089,5,ok,greeting
+1090,3,ledu,greeting
+1091,1,sir,notInterested
+1092,5,hi,location
+1093,3,hi,greeting
+1094,1,hello,whoAreYou
+1095,4,k,whoAreYou
+1096,0,good morning     ,greeting
+1097,2,hello,notInterested
+1098,5,ok,whoAreYou
+1100,2,licence,whoAreYou
+1101,5,hii,whoAreYou
+1102,5,thank u,greeting
+1103,2,hi,whoAreYou
+1104,0,oky,greeting
+1105,4,sorry,notInterested
+1106,1,hi,greeting
+1107,5,hi,notInterested
+1108,2,abhi nhi phir kbhi,greeting
+1109,2,tell job location,greeting
+1110,4,hi,greeting
+1111,3,good night,whoAreYou
+1112,0,okey sir,greeting
+1113,2,kaha job,notInterested
+1114,3,hii,whoAreYou
+1115,3,hiii,dontMeetRequirements
+1116,2,hi,notInterested
+1117,0,hiiii,notInterested
+1118,2,location  ,greeting
+1119,1,mai bike nai chalata hu,notInterested
+1120,3,hey u stop,dontMeetRequirements
+1121,3,ok,greeting
+1122,1,hlo,notInterested
+1123,5,vehicle,dontMeetRequirements
+1125,1,ok,whoAreYou
+1126,5,hello,greeting
+1127,1,ok,whoAreYou
+1128,1,gn,whoAreYou
+1129,1,okay,notInterested
+1130,2,ok,greeting
+1131,0,learning license,greeting
+1132,3,need thank,dontMeetRequirements
+1133,3,hi,whoAreYou
+1134,0,kasturi nager,notInterested
+1135,0,job location,whoAreYou
+1136,2,ok,greeting
+1137,3,hii,dontMeetRequirements
+1138,0,hi,whoAreYou
+1139,4,thanks info,location
+1140,5,hi,notInterested
+1141,0,bike dl bro,notInterested
+1142,4,hi,notInterested
+1143,0,stopped,greeting
+1144,4,k,greeting
+1145,5,ok,notInterested
+1146,5,kindly text number,notInterested
+1147,3,hl,notInterested
+1148,0,mere pas bike license nahi hr,greeting
+1149,4,kindly text number,whoAreYou
+1150,0,dont want delivery job,greeting
+1151,5,good night,notInterested
+1152,2,pay r number,notInterested
+1153,4,bike,greeting
+1154,3,ok,whoAreYou
+1155,3,hiii,notInterested
+1156,1,kaunsi si jagah job milega,whoAreYou
+1157,0,hello,whoAreYou
+1158,5,baik nhi hai,greeting
+1159,2,ok,whoAreYou
+1160,0,hi,greeting
+1161,5,hello,whoAreYou
+1162,3,hiii,greeting
+1163,4,get licensee numbermonth,notInterested
+1164,4,hello sir,greeting
+1165,3,bike,notInterested
+1166,3,chal nikl,greeting
+1167,2,location vasai hai,whoAreYou
+1168,0,hey hi,whoAreYou
+1169,2,present bike ledu tesukovali,notInterested
+1170,5,hiii,whoAreYou
+1171,4,hi unnati,whoAreYou
+1172,3,ok,notInterested
+1173,4,area sir,location
+1174,2,ok,notInterested
+1175,2,hii,greeting
+1176,2,acha ji,notInterested
+1177,4,hi,whoAreYou
+1178,5,going block,greeting
+1179,0,hi,location
+1180,2,"sir need delivery jobs
+",whoAreYou
+1181,3,gn,location
+1182,3,hiii,notInterested
+1183,0,hi,greeting
+1184,5,ok,whoAreYou
+1185,3,interested,whoAreYou
+1186,5,hi,notInterested
+1187,4,location,whoAreYou
+1188,4,hiii,whoAreYou
+1189,2,job,whoAreYou
+1190,3,driving licence,whoAreYou
+1191,0,good morning,greeting
+1192,2,kk,greeting
+1193,1,hi,greeting
+1194,3,ok,greeting
+1195,4,address kaha hai,greeting
+1196,4,ok,whoAreYou
+1197,0,ok,notInterested
+1198,5,accha,whoAreYou
+1199,0,hi,greeting
+1200,4,hi,whoAreYou
+1201,5,hiiii,notInterested
+1202,1,driving licence nahi hey,greeting
+1203,5,hi,dontMeetRequirements
+1204,0,hello sir bike rest document sir,notInterested
+1205,2,oka,whoAreYou
+1206,2,good morning,location
+1207,5,ok,whoAreYou
+1208,3,k,notInterested
+1209,2,learner license,dontMeetRequirements
+1210,1,thank    ,greeting
+1211,5,nko,notInterested
+1212,3,hiii,whoAreYou
+1213,5,ok,whoAreYou
+1214,0,hello sir,greeting
+1215,2,bike,whoAreYou
+1216,4,bike   dl,greeting
+1217,1,okay,dontMeetRequirements
+1218,1,  say near r nagar,whoAreYou
+1219,2,redy,notInterested
+1220,1,hi,notInterested
+1221,0,job kha pila gi,location
+1222,2,kk,whoAreYou
+1223,1,hi,greeting
+1224,3,k,notInterested
+1225,0,hello,greeting
+1226,3,bike nahi hai,notInterested
+1227,2,u office,notInterested
+1228,4,hii,notInterested
+1229,1,hello,greeting
+1230,2,area ,notInterested
+1231,3,okay,whoAreYou
+1232,0,good night,greeting
+1233,2,dont pancard even,greeting
+1234,0,hi,greeting
+1235,0,hi,dontMeetRequirements
+1236,4,hello,whoAreYou
+1237,0,hi,dontMeetRequirements
+1238,2,ok,dontMeetRequirements
+1239,5,ok,whoAreYou
+1240,1,okay,location
+1241,3,accept llr license,whoAreYou
+1242,5,sir mere pas bike aur licence nahi hai,whoAreYou
+1243,5,hie,notInterested
+1244,1,ya dl,notInterested
+1245,1,kasturi nagar,whoAreYou
+1246,3,bike license,notInterested
+1247,5,  ಬ ಳಗ ನ ಶ ಭ ದಯ ಗಳ ,notInterested
+1248,2,hi,location
+1249,3,ok,whoAreYou
+1250,5,send interested,whoAreYou
+1251,5,good morning,greeting
+1252,3,oki,whoAreYou
+1253,5,dn dl,dontMeetRequirements
+1254,4,fine,notInterested
+1255,5,sir know driving,greeting
+1256,2,job,whoAreYou
+1257,0,get lost,greeting
+1258,1,hii,whoAreYou
+1259,5,hi sir,notInterested
+1260,2,driving licence,greeting
+1261,4,iam interested delivery job,whoAreYou
+1262,5,hii,greeting
+1263,2,job location,whoAreYou
+1264,3,ohk,greeting
+1265,4,ok,dontMeetRequirements
+1266,0,hello sir,notInterested
+1267,1,bt mere pa vehicle nh hai,dontMeetRequirements
+1268,3,okay,whoAreYou
+1269,3,k  fine,whoAreYou
+1270,1,hi,notInterested
+1271,0,job,greeting
+1272,5,hello,greeting
+1273,0,hii,whoAreYou
+1274,0,ok,whoAreYou
+1275,0,bike,whoAreYou
+1276,4,bro wr come,notInterested
+1277,4,hi,notInterested
+1278,1,thank sir,whoAreYou
+1279,3,morning,greeting
+1280,0,soory driving lance,greeting
+1281,2,hi,whoAreYou
+1282,0,yes im interested two wheeler sir,greeting
+1283,0,k,whoAreYou
+1284,2,ok,dontMeetRequirements
+1285,1,oky,whoAreYou
+1286,2,ok,greeting
+1287,2,hai,dontMeetRequirements
+1288,0,hv,notInterested
+1289,3,ok thaynku gd night jab par,dontMeetRequirements
+1291,4,sorry,notInterested
+1292,2,hii,whoAreYou
+1293,3,hii,greeting
+1294,0,nahi dena mujhe,whoAreYou
+1295,1,okay,greeting
+1296,5,hi,greeting
+1297,3,r u,greeting
+1298,5,place,dontMeetRequirements
+1299,3,hi,greeting
+1300,5,hi,notInterested
+1301,0,job address location mumbai pune,notInterested
+1302,5,hi,whoAreYou
+1303,1,ok  tq,greeting
+1304,2,ok,greeting
+1305,3,ok,notInterested
+1306,4,kidar apko milna hi,notInterested
+1307,4,merai pas bike nayi hai,whoAreYou
+1309,1,hello,greeting
+1310,1,hello,whoAreYou
+1311,3,hi,whoAreYou
+1312,5,r u,greeting
+1313,3,wokey,greeting
+1314,2,wish,greeting
+1315,0,hello,whoAreYou
+1316,0,ok,greeting
+1317,0,kk,notInterested
+1318,4,sry,greeting
+1319,2,sir u r place bangalore,greeting
+1320,4,hi sir,greeting
+1321,5,ok,whoAreYou
+1322,1,ok,greeting
+1323,2,hi,whoAreYou
+1324,1,hi,greeting
+1325,0,yeah,whoAreYou
+1326,2,hi,whoAreYou
+1327,0,kkk,dontMeetRequirements
+1328,4,lening license,greeting
+1329,2,good morning    ,notInterested
+1330,5,hey,greeting
+1331,5,ok,notInterested
+1332,3,marathi,greeting
+1333,1,okk,notInterested
+1334,4,delivering location chamrajpet hanumantha nagar srinagar,whoAreYou
+1335,2,hii,greeting
+1336,2,ur location,dontMeetRequirements
+1338,0,bike,greeting
+1339,5,ok,notInterested
+1340,1,learning dhare,dontMeetRequirements
+1341,5,write,whoAreYou
+1342,4,ohk,location
+1344,2,bike sir,greeting
+1345,1,hiii,whoAreYou
+1346,0,hi,whoAreYou
+1347,5,hi,whoAreYou
+1348,4,hi,whoAreYou
+1349,0,yas,whoAreYou
+1350,1,place,whoAreYou
+1351,3,sir,notInterested
+1352,2,bike nhi hai mere pas,notInterested
+1353,5,hiii,greeting
+1354,5,hi,notInterested
+1355,1,numberyes present learning licence,whoAreYou
+1356,5,hello,greeting
+1357,1,hiii innappndra,greeting
+1358,4,hi,notInterested
+1359,1,hi,dontMeetRequirements
+1360,3,dl,whoAreYou
+1361,2,mere pas bike nahi hai,whoAreYou
+1362,4,nahi,greeting
+1363,0,hi,notInterested
+1364,0,dnt hav bike,whoAreYou
+1365,5,place,whoAreYou
+1366,3,hi,whoAreYou
+1367,3,hinumber,location
+1368,4,jai shree ram,greeting
+1369,3,ok,notInterested
+1370,2,ok,greeting
+1371,3,hi hi hi,greeting
+1372,4,hi,whoAreYou
+1374,5,ok,whoAreYou
+1375,2,hi,whoAreYou
+1376,3,"student f b com 
+ licence",greeting
+1377,0,stop,notInterested
+1378,4,ok,greeting
+1379,1,llr,notInterested
+1380,2,ook,notInterested
+1381,5,hi,notInterested
+1382,0,llr license,greeting
+1383,5,ok sure,location
+1384,3,ha,location
+1385,4,good morning sir,whoAreYou
+1386,1,sry dnt hav bike,whoAreYou
+1387,4,hi,greeting
+1388,1,hi,greeting
+1389,4,acha,whoAreYou
+1391,3,far,notInterested
+1392,2,wear office bro,dontMeetRequirements
+1393,4,hiii,notInterested
+1394,5,ther,whoAreYou
+1395,1,kaha par job,greeting
+1396,0,hi hi,whoAreYou
+1397,5,ok,notInterested
+1398,1,hi r,greeting
+1399,4,okay,notInterested
+1400,4,ok,location
+1401,3,ok,notInterested
+1402,2,llr next week lo licence vasthadi,whoAreYou
+1403,5,morning,whoAreYou
+1404,1,location,whoAreYou
+1405,2,ur ofice adress,greeting
+1406,1,sorry,location
+1408,3,ok,notInterested
+1409,2,bike,greeting
+1410,4,thankuuu,location
+1411,1,sir,dontMeetRequirements
+1413,2,hi,notInterested
+1414,4,dont licience,dontMeetRequirements
+1415,1,thanks  ,whoAreYou
+1416,1,hi,notInterested
+1417,0,ok,greeting
+1418,5,thank sir bike ,whoAreYou
+1419,3,location,notInterested
+1422,4,ok,dontMeetRequirements
+1423,0,hello sir,whoAreYou
+1424,1,jus llr,notInterested
+1425,0,ok,notInterested
+1426,3,ok,greeting
+1427,2,interview kaha deni hogi,dontMeetRequirements
+1428,5,sir mere pas baik nahi hai  kya aap meri helf kar sakate hai   ,whoAreYou
+1429,1,ok,whoAreYou
+1430,5,ok,notInterested
+1431,5,hi,greeting
+1432,3,place,location
+1433,3,ok,whoAreYou
+1434,3,byke next month cmng,greeting
+1435,4,office,dontMeetRequirements
+1436,3,hii,whoAreYou
+1437,3,ok,whoAreYou
+1438,5,learning licence,greeting
+1439,3,okay,whoAreYou
+1440,2,good morning sir  madam,greeting
+1441,1,r u,whoAreYou
+1442,3,par mere pas paisa nahi,greeting
+1443,3,hiii,whoAreYou
+1444,4,k,whoAreYou
+1445,3,hiii,notInterested
+1446,5,nahi,dontMeetRequirements
+1448,4,sir,greeting
+1449,1,hi,greeting
+1450,5,ur location,whoAreYou
+1451,1,k,notInterested
+1452,3,ok,notInterested
+1453,0,job  ,greeting
+1454,5,  photo,dontMeetRequirements
+1455,2,hello,notInterested
+1456,4,hi looking,notInterested
+1457,3,hiii,dontMeetRequirements
+1458,4,kk,notInterested
+1459,5,  banagaluru  right  ,greeting
+1460,0,office,greeting
+1461,0,sry mam father business,whoAreYou
+1462,5,k,whoAreYou
+1463,0,dnt think,whoAreYou
+1464,1,hii,whoAreYou
+1465,1,hello,location
+1466,0,ok,greeting
+1467,5,interested thank ,greeting
+1468,1,ok,greeting
+1469,3,kahhpe hy job amrvati,whoAreYou
+1470,3,wr  ,whoAreYou
+1471,4,ok,greeting
+1472,1,learning license,notInterested
+1473,2,ok,location
+1474,1,hello sir,greeting
+1475,5,sir intrasted  bat baik  license avalebal,whoAreYou
+1476,2,ok,dontMeetRequirements
+1477,3,ok ,whoAreYou
+1479,1,back address plz tell,notInterested
+1480,2,hi,greeting
+1481,4,good morning,greeting
+1483,4,okkky,notInterested
+1484,2,gd evng  ,whoAreYou
+1485,4,hi,dontMeetRequirements
+1487,1,ok,notInterested
+1488,5,okay,greeting
+1489,4,ok,greeting
+1490,4,ok,greeting
+1491,1,hi,greeting
+1492,5,place,greeting
+1493,5,hai,location
+1494,1,hi,greeting
+1495,2,sir   ,greeting
+1496,4,want work bit bike,notInterested
+1497,2,muze bike chalani nhi ati,notInterested
+1498,4,prasent learning,whoAreYou
+1499,2,hii,greeting
+1500,5,hello,whoAreYou
+1501,4,hi   thanks message,whoAreYou
+1502,0,hii,greeting
+1503,0,may know location,notInterested
+1504,5,hi,greeting
+1505,4,ok,greeting
+1506,2,jai raam ki,dontMeetRequirements
+1507,1,aur area konsa,greeting
+1508,2,hlo,dontMeetRequirements
+1509,5,hello,whoAreYou
+1510,0,send kurla office address,notInterested
+1511,5,hi,whoAreYou
+1512,0,hi,whoAreYou
+1513,0,ok,notInterested
+1514,3,mere pas bike nhi hai,greeting
+1515,4,good morning,greeting
+1516,5,hello,greeting
+1517,0,rajajinagar,notInterested
+1518,0,ok,notInterested
+1519,0,good morning,whoAreYou
+1520,3,actually learner licence   need apply drive test,notInterested
+1521,3,hello,notInterested
+1522,5,know software,greeting
+1523,0,good morning sir,notInterested
+1524,2,ok,notInterested
+1525,2,hi,whoAreYou
+1526,5,job ,greeting
+1527,5,k,whoAreYou
+1528,3,hi,notInterested
+1529,3,understand said,greeting
+1530,5,ok,greeting
+1531,4,hello,notInterested
+1532,0,llr,whoAreYou
+1533,2,ok sir,whoAreYou
+1534,0,ok,notInterested
+1535,4,sorry,location
+1536,3,hi,whoAreYou
+1537,1,kk,notInterested
+1538,5,office,greeting
+1539,3,give address,whoAreYou
+1540,2,gn,whoAreYou
+1541,1,message,dontMeetRequirements
+1542,5,iam interested swiggy,whoAreYou
+1543,4,license yet come   gone na work,greeting
+1544,1,thanks,greeting
+1545,2,hlo,notInterested
+1546,2,nahi,whoAreYou
+1547,4,ok,greeting
+1548,1,tq response,notInterested
+1549,2,learning licence l vill get license number day,greeting
+1550,5,ok,notInterested
+1551,3,क ट  ह ,dontMeetRequirements
+1552,3,interested,greeting
+1553,2,hii,whoAreYou
+1554,4,location,whoAreYou
+1555,5,ha okl,dontMeetRequirements
+1556,2,driving licence,greeting
+1557,2,anna deposit mado astu amount illa dayavittu nam bitbdi ,notInterested
+1558,4,job konsa state may hey,notInterested
+1559,4,ok,greeting
+1560,1,hi,location
+1561,2,hru,notInterested
+1562,1,le lo,whoAreYou
+1563,4,thnx inform,notInterested
+1564,1,hi thank sm,whoAreYou
+1565,2,hi,whoAreYou
+1566,4,area ,greeting
+1567,4,work location ,whoAreYou
+1568,5,location sir,notInterested
+1569,3,okk,whoAreYou
+1570,5,ok thank,location
+1571,1,location,whoAreYou
+1572,4,hi gm,greeting
+1573,1,hi,greeting
+1574,2,mere pas bike nahi hai,whoAreYou
+1575,0,hi,notInterested
+1576,0,hi,notInterested
+1578,4,job location,notInterested
+1579,4,hai,dontMeetRequirements
+1580,1,thank,greeting
+1581,2,bike,notInterested
+1582,4,hi,location
+1583,3,sir,notInterested
+1584,2,ok,greeting
+1585,1,hi,greeting
+1586,3,k,whoAreYou
+1587,2,hi  vacancy dilsuknagar  part time,greeting
+1588,1,hi,greeting
+1590,2,learning,notInterested
+1591,4,office india,whoAreYou
+1592,4,learner licence,dontMeetRequirements
+1593,3,sir mai delivery ka kaam nhi kar sakta,greeting
+1594,4,nearest yelahanka,location
+1595,4,bike licence,greeting
+1596,5,receipt hai learning,greeting
+1597,3,sorry dnt,whoAreYou
+1598,0,hi sir,whoAreYou
+1599,5,meanae thoo naa lagta madam ,whoAreYou
+1600,1,dont lisence kearning license,notInterested
+1601,5,  learning licence,greeting
+1602,5,hai,notInterested
+1603,5,application fee nai bhr skte,location
+1604,4,hii,dontMeetRequirements
+1605,0,hello,notInterested
+1606,1,hi,whoAreYou
+1607,0,helo,greeting
+1608,4,mere pas bike nahi hai,notInterested
+1609,5,hi,whoAreYou
+1610,5,okk mam,notInterested
+1611,1,haii,greeting
+1612,0,hi sir madem,whoAreYou
+1613,0,hii,greeting
+1614,0,ok,whoAreYou
+1615,2,tank,greeting
+1616,5,hi,whoAreYou
+1617,0,ok,whoAreYou
+1618,0,hi friend,location
+1619,5,sorry biji u,greeting
+1620,4,bike,notInterested
+1621,5,learning,whoAreYou
+1622,2,sir,whoAreYou
+1623,2,naku bike lisense ledhu bro,whoAreYou
+1624,2,sir dl sir,greeting
+1625,5,hiii,whoAreYou
+1626,0,k    thank u,notInterested
+1627,0,नमस क र,whoAreYou
+1628,5,please stay number mile away ok,greeting
+1629,0,ok,notInterested
+1630,1,hiii,greeting
+1631,5,ok,greeting
+1632,3,hi,greeting
+1633,1,hai sir,whoAreYou
+1634,4,ok,notInterested
+1635,3,hi,whoAreYou
+1636,5,shut,notInterested
+1637,5,hello,dontMeetRequirements
+1638,4,hello,location
+1639,1,ok,whoAreYou
+1640,1,ok,notInterested
+1641,1,ok,location
+1642,4,bike,whoAreYou
+1643,1,llr apply,whoAreYou
+1644,1,two wheeler,notInterested
+1645,4,hellooo,location
+1646,1,ok,greeting
+1647,5,number yr old,greeting
+1648,5,ok,location
+1649,1,kkk,greeting
+1650,0,hi,whoAreYou
+1651,4, far,notInterested
+1652,3,  good morning blessed day,dontMeetRequirements
+1653,5,wher located,dontMeetRequirements
+1654,1,hlo,notInterested
+1655,1,okkk,whoAreYou
+1656,0,hi,whoAreYou
+1657,5,bhai,notInterested
+1658,3,licence,notInterested
+1659,1,hi,whoAreYou
+1660,4,thanks sir,notInterested
+1661,1,ok,notInterested
+1662,4,hello,whoAreYou
+1663,3,okay,whoAreYou
+1664,3,kk,greeting
+1665,5,ok,greeting
+1666,1,learning license,whoAreYou
+1667,5,hii,greeting
+1668,2,nhi chaiya,notInterested
+1669,1,sry come ur place becoz place,greeting
+1670,1,ledu,notInterested
+1671,3,ok,whoAreYou
+1674,4,hai computer,notInterested
+1675,0,ok,greeting
+1676,4,mere pas bike nhi hai,dontMeetRequirements
+1677,1,ok good night computer tomorrow ok bye bye,greeting
+1678,1,ok,whoAreYou
+1679,4,ok,whoAreYou
+1680,0,kk,whoAreYou
+1681,2,ok,dontMeetRequirements
+1682,3,sir licence nahi hai,greeting
+1683,0,hello,whoAreYou
+1685,1,ok,whoAreYou
+1686,3,ok,location
+1687,2,hi,whoAreYou
+1688,3,location ekkda,whoAreYou
+1689,0,hello sir,notInterested
+1690,2,ki jagah jab milega,greeting
+1691,4,ok,notInterested
+1692,3,city ,greeting
+1693,5,hii,whoAreYou
+1694,1,hi,greeting
+1695,4,hi,whoAreYou
+1696,1,hai,notInterested
+1697,2,sorry mistake type delivery job,notInterested
+1699,0,kasthuri nagar,whoAreYou
+1700,4,bhai,dontMeetRequirements
+1701,2,hi,notInterested
+1702,5,ok,notInterested
+1703,2,hi,greeting
+1704,2,hello,greeting
+1705,1,hii,greeting
+1706,0,ok,whoAreYou
+1707,2,hello,greeting
+1708,5,kya location h,whoAreYou
+1709,4,ohk,whoAreYou
+1710,2,good morning,greeting
+1711,0,ok,whoAreYou
+1712,4,wont give u money,greeting
+1713,1,hii,greeting
+1714,4,thanks sir,whoAreYou
+1715,4,time batao,whoAreYou
+1716,0,area,location
+1717,0,hai,dontMeetRequirements
+1718,4,hii,whoAreYou
+1719,1,k,whoAreYou
+1720,0,gd morning,greeting
+1721,1,hi,whoAreYou
+1722,5,ok,whoAreYou
+1723,4,dnt hv bike,whoAreYou
+1724,3,ok,whoAreYou
+1726,4,kk,notInterested
+1727,1,ledu,notInterested
+1729,1,hi,greeting
+1730,2,kk,notInterested
+1731,0,lerner licennce alredy apply l soon dispatch,whoAreYou
+1732,2,location ,greeting
+1733,4,nai kar naa hai,notInterested
+1734,2,hlo,whoAreYou
+1735,4,hii,whoAreYou
+1736,3,hi,dontMeetRequirements
+1737,3,dnt smart phone learing licence,whoAreYou
+1738,0,interset,greeting
+1739,3,send message,greeting
+1740,3,tks,dontMeetRequirements
+1741,2,hiii,greeting
+1742,5,ur office,whoAreYou
+1743,3,hi,whoAreYou
+1744,3,hi thanks considering cv,whoAreYou
+1745,5,message,dontMeetRequirements
+1746,0,hello sir,whoAreYou
+1747,2,hi,greeting
+1748,0,kk,whoAreYou
+1749,2,ok,notInterested
+1750,2,hi,notInterested
+1751,2,nooo,whoAreYou
+1753,1,helli,greeting
+1754,0,sorry bye disturb,greeting
+1755,5,area bro,whoAreYou
+1756,5,hi,whoAreYou
+1757,3,hi sir madam,whoAreYou
+1758,2,sir mine office,whoAreYou
+1759,1,location job working,greeting
+1760,4,kk,greeting
+1761,0,hello,whoAreYou
+1762,5,ok,notInterested
+1763,5,hi,greeting
+1764,1,u msg,greeting
+1765,2,hai,location
+1766,4,hi,whoAreYou
+1767,3,ok sir,notInterested
+1768,4,numberella,notInterested
+1769,4,location,notInterested
+1770,3,ok,greeting
+1771,4,need job  learning license  possible job,greeting
+1772,0,okay,greeting
+1773,2,insert,location
+1774,4,ok,whoAreYou
+1775,3,ledu,notInterested
+1776,3,got new bike rc card innu bandilla  ,whoAreYou
+1777,4,thank,dontMeetRequirements
+1778,0,ledhu,whoAreYou
+1779,5,hii,whoAreYou
+1780,3,srryy,whoAreYou
+1781,5,aitu iru guru,greeting
+1782,1,ok,greeting
+1783,0,hlo,whoAreYou
+1784,5,ye office kahan h,greeting
+1785,4,hi,greeting
+1787,5,location,greeting
+1788,3,sry,greeting
+1789,0,kk,location
+1790,0,hey,greeting
+1791,5,stupid,whoAreYou
+1792,4,hi sir suchindra,location
+1793,2,hi,greeting
+1794,0,ok,greeting
+1795,0,hello,greeting
+1796,2,ok,location
+1797,5,sorry bike,whoAreYou
+1798,2,hi,greeting
+1799,1,hello,greeting
+1800,2,interested delivery job,greeting
+1801,0,sorry computer,whoAreYou
+1802,4,ok,location
+1803,3,number number,whoAreYou
+1804,3,helloo,notInterested
+1805,3,ok,greeting
+1806,3,hey,greeting
+1807,0,ok,whoAreYou
+1808,0,hey,dontMeetRequirements
+1809,4,sir paisa nhi pay karunga,greeting
+1810,5,learning license,location
+1811,1,hi,greeting
+1812,3,hiii,dontMeetRequirements
+1813,0,hi,whoAreYou
+1814,3,ok,notInterested
+1815,1,good morning,dontMeetRequirements
+1816,0,  good nyt,notInterested
+1817,4,licence  bhi nahi hai,notInterested
+1818,4,learning,notInterested
+1819,4,location package,whoAreYou
+1820,0,koramangala    ,whoAreYou
+1821,0,hiii,whoAreYou
+1822,0,ok,greeting
+1823,1,okay,greeting
+1824,0,hii,whoAreYou
+1825,0,ok,whoAreYou
+1826,1,llr,greeting
+1827,4,like kasturi nagar saturday amazon job,greeting
+1828,3,ok,whoAreYou
+1829,2,hi,notInterested
+1830,0,ok,greeting
+1831,4,bike,whoAreYou
+1832,5,kha ana hoga,notInterested
+1833,5,hello,whoAreYou
+1834,0,learning licence,greeting
+1835,4,hi,greeting
+1836,1,k work location,greeting
+1837,3,ok,whoAreYou
+1838,0,good night,notInterested
+1839,3,ok,notInterested
+1840,0,hi unnati,greeting
+1841,5,ok,greeting
+1842,5,thank valuable time sir,dontMeetRequirements
+1843,0,jayanagar,whoAreYou
+1844,3,area,whoAreYou
+1845,3,ok ok thn,whoAreYou
+1846,5,hi,whoAreYou
+1847,4,driveing license leadu,notInterested
+1848,1,bike sir,whoAreYou
+1849,3,hi,whoAreYou
+1850,2,abhi nahi,greeting
+1851,4,hi,notInterested
+1852,2,hi,whoAreYou
+1853,3,job isz bnglr,whoAreYou
+1854,4,ok,whoAreYou
+1855,5,thanks informing,whoAreYou
+1856,4,helo,notInterested
+1857,5,gud mrng,dontMeetRequirements
+1858,3,nonsense,notInterested
+1859,4,ledu maa brother di undi,greeting
+1860,4,bike,greeting
+1861,3,ok tell,greeting
+1863,1,hi,whoAreYou
+1864,3,tqq sir,greeting
+1865,3,airea located job,greeting
+1866,0,dont vehicle,dontMeetRequirements
+1867,1,ok,greeting
+1868,4,hloo,whoAreYou
+1869,0,tq,notInterested
+1870,3,ok,whoAreYou
+1871,0,hi,whoAreYou
+1872,3,thnx,location
+1873,1,driving licence llr,location
+1874,2,ledhu thechukunta,whoAreYou
+1876,2,two wheeler license two wheeler applied jo,notInterested
+1877,0,ok,notInterested
+1878,0,"ok think mistake chat you
+ 
+ finally block
+ 
+ sai ram    ",greeting
+1879,0,ok,greeting
+1880,5,interview,location
+1881,0,interest,greeting
+1882,1,mere paas bike nhi h,location
+1883,4,hello,whoAreYou
+1884,2,get lost,dontMeetRequirements
+1885,2,hi,location
+1886,3,ok,whoAreYou
+1887,3,vl block u,greeting
+1888,1,edhi akada job,location
+1889,0,hi,dontMeetRequirements
+1891,4,hii,greeting
+1892,4,hi,whoAreYou
+1893,3,lr,whoAreYou
+1894,0,bike licence,notInterested
+1895,4,hi,whoAreYou
+1896,3,kkk,whoAreYou
+1897,3,hi,greeting
+1898,2,hi,greeting
+1899,4,hi,whoAreYou
+1900,4,hii,location
+1901,1,bike,greeting
+1902,1,sorry know drive numberwheeler bike   ,greeting
+1903,3,hiii,notInterested
+1904,1,ohhkk,notInterested
+1905,1,hi,whoAreYou
+1906,4,sir want know working location,greeting
+1907,4,hi    ,whoAreYou
+1908,2,l l,notInterested
+1909,5,learning hv,notInterested
+1910,0,kidar,location
+1911,5,hey,notInterested
+1912,4,pan card,greeting
+1913,4,get lost,greeting
+1914,5,ok,whoAreYou
+1915,5,chapu,greeting
+1916,3,address,whoAreYou
+1917,4,ya,notInterested
+1918,0,know city name  tell,whoAreYou
+1919,2,hi  ,notInterested
+1920,5,hi,whoAreYou
+1921,1,  ,greeting
+1922,1,ok ji,whoAreYou
+1923,1,hi,notInterested
+1924,2,thanku lm interested,whoAreYou
+1925,0,hindi nai aate,greeting
+1926,5,good morning,greeting
+1927,0,ok,whoAreYou
+1928,2,sir mere pas gadi,greeting
+1929,5,ok sure,notInterested
+1930,4,gm,greeting
+1932,4,learning licence,notInterested
+1933,3,hi sir,dontMeetRequirements
+1934,0,hi,location
+1935,5,kaha pe job krna ho ga,notInterested
+1936,0,plz wait busy n location,dontMeetRequirements
+1938,3,ok,notInterested
+1939,2,hello sir,whoAreYou
+1940,5,ohhh ok,greeting
+1941,1,bike,whoAreYou
+1942,1,okey,notInterested
+1943,0,sent message,notInterested
+1944,5,ok,greeting
+1945,0,hai,location
+1946,1,hy u,whoAreYou
+1947,1,bibek,whoAreYou
+1948,3,job location,whoAreYou
+1949,1,hieeee sir,greeting
+1950,0,hy,greeting
+1951,4,office,notInterested
+1952,1,ok,whoAreYou
+1953,0,hai,greeting
+1954,0,hiiii,notInterested
+1955,0,hi,greeting
+1957,2,hlo,greeting
+1959,1,dnt know reading,greeting
+1960,0,hello,whoAreYou
+1961,0,hello,greeting
+1962,4,sir bikr,notInterested
+1963,5,hiiii,greeting
+1964,1,hii,notInterested
+1965,1,ok,location
+1966,0,location,notInterested
+1967,5,hi,whoAreYou
+1968,0,achha,notInterested
+1969,1,vahan delivery,notInterested
+1970,3,time nai hy mere pa,greeting
+1971,5,hiii,whoAreYou
+1972,3,hii,whoAreYou
+1974,0,sry,location
+1975,2,thank sir,notInterested
+1976,2,  city sir  actually belongs nagpur,greeting
+1977,1,sir two wheeler,notInterested
+1978,0,blocked u,dontMeetRequirements
+1979,3,ok,greeting
+1981,5,ok,greeting
+1982,4,thanks,notInterested
+1983,2,hi,dontMeetRequirements
+1984,3,hay,greeting
+1985,0,job whare,whoAreYou
+1986,1,license,notInterested
+1987,4,hello,greeting
+1988,2,hi,greeting
+1989,1,ok,whoAreYou
+1990,1,kk,notInterested
+1991,4,okay,whoAreYou
+1992,0,okay,whoAreYou
+1993,2,work,greeting
+1994,2,mere paas khud ka nai hai,notInterested
+1995,4,ok,dontMeetRequirements
+1997,2,ok sir,whoAreYou
+1998,4,hello,greeting
+1999,0,bike,greeting
